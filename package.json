@@ -1,0 +1,14 @@
+{
+  "name": "loetrip-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Leo Tran",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "opusscript": "0.0.6",
+    "winston": "^2.4.4",
+    "ytdl-core": "^0.29.1"
+  }
+}
